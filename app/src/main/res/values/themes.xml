@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KrishiSakhi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/krishi_green</item>
+        <item name="colorPrimaryDark">@color/krishi_green_dark</item>
+        <item name="colorAccent">@color/krishi_green_light</item>
+        <item name="android:windowBackground">@color/krishi_green_dark</item>
+        <item name="android:statusBarColor">@color/krishi_green_dark</item>
+        <item name="android:navigationBarColor">@color/krishi_green_dark</item>
+    </style>
+
+    <style name="Theme.KrishiSakhi.Splash" parent="Theme.KrishiSakhi">
+        <item name="android:windowBackground">@color/krishi_green_dark</item>
+    </style>
+</resources>

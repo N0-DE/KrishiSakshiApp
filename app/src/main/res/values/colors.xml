@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="krishi_green_dark">#193F32</color>
+    <color name="krishi_green">#2E7D4F</color>
+    <color name="krishi_green_light">#4CAF50</color>
+    <color name="krishi_accent">#A5D6A7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
